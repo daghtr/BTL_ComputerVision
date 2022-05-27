@@ -1,0 +1,12 @@
+ViT-B/32 là mô hình Vision Transformer được huấn luyện trước
+và có thể sử dụng tuỳ chỉnh ViT trên dữ liệu của mình
+
+Lib
+glob - lay danh sach ten file va thu muc theo dieu kien
+torch - la 1 framework duoc xay dung dua tren python cung cap tren nen tang tinh toan khoa hoc 
+    phuc vu cho Deeplearning
+        thay the cho numpy de toi uu tinh toan cho GPU
+        mot platform DL phuc vu trong nghien cuu 
+        van chua hoan thien trong viec deploy ap dung cho cac he thong lon nhu tensorflow
+        han che cac nguon tai lieu
+.yaml - duoc su dung lam file cau hinh cho project
