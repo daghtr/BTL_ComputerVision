@@ -65,15 +65,8 @@ can find code that produces that result in `tutorial.ipynb` jupyter notebook.
 
 ![Result video](./results/output_fight.gif)
 
-### Result Images
+### Result
 
-![Result image](./results/3.jpg)
-![Result image](./results/9.jpg)
-![Result image](./results/2.jpg)
-![Result image](./results/4.jpg)
-![Result image](./results/10.jpg)
-![Result image](./results/7.jpg)
-![Result image](./results/0.jpg)
 
 <a name="work"></a>
 
